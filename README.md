@@ -28,8 +28,8 @@ This project uses the Metropolitan Museum of Art Open Access dataset.
 
 ## Sample Visuals
 
-![Departments Chart](images/departments_chart.png)
-![Countries Chart](images/countries_chart.png)
-![Medium Chart](images/medium_chart.png)
-![Century Chart](images/century_chart.png)
-![Top Artists Chart](images/top_artists_chart.png)
+![Departments Chart](museum-analysis/images/departments_chart.png)
+![Countries Chart](museum-analysis/images/countries_chart.png)
+![Medium Chart](museum-analysis/images/medium_chart.png)
+![Century Chart](museum-analysis/images/century_chart.png)
+![Top Artists Chart](museum-analysis/images/top_artists_chart.png)
