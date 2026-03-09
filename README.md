@@ -10,6 +10,18 @@ This project analyzes the Metropolitan Museum of Art Open Access dataset using P
 - Artwork production increases dramatically in the 18th–20th centuries.
 - Several artists appear repeatedly in the collection, showing strong representation of major art historical figures.
 
+This analysis uses the **Metropolitan Museum of Art Open Access dataset**, which contains information on over **480,000 artworks** in the museum's collection.
+
+The dataset includes fields such as:
+
+- Department
+- Country of origin
+- Artistic medium
+- Artist display name
+- Object begin date
+
+The dataset allows exploration of historical, geographic, and material trends across the museum's holdings.
+
 ## Tools Used
 
 - Python
