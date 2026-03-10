@@ -9,6 +9,7 @@ Metropolitan Museum of Art collection dataset.
 
 View the dashboard here:
 https://public.tableau.com/app/profile/xenel.islam/viz/met_museum_analysis/Dashboard1
+
 ![Dashboard Preview](dashboard.png)
 
 ## Key Insights
