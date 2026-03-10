@@ -9,6 +9,7 @@ Metropolitan Museum of Art collection dataset.
 
 View the dashboard here:
 https://public.tableau.com/app/profile/xenel.islam/viz/met_museum_analysis/Dashboard1
+![Dashboard Preview](dashboard.png)
 
 ## Key Insights
 
@@ -54,10 +55,3 @@ This project uses the Metropolitan Museum of Art Open Access dataset.
 ![Century Chart](museum-analysis/images/century_chart.png)
 ![Top Artists Chart](museum-analysis/images/top_artists_chart.png)
 
-## Tableau Dashboard
-
-Interactive dashboard exploring patterns in the
-Metropolitan Museum of Art collection dataset.
-
-View the dashboard here:
-https://public.tableau.com/app/profile/xenel.islam/viz/met_museum_analysis/Dashboard1
